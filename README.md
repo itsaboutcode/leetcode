@@ -12,3 +12,8 @@
 - Try to use notepad when writing the actual code
 - Breakdown the problem
 - Don't overthinkg about the solution, don't think about time and space complexity in first iteration
+
+
+**Problems List**
+
+- [0001 - Two Sum](https://github.com/itsaboutcode/leetcode/tree/main/0001%20-%20Two%20Sum)
