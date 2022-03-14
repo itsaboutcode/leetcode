@@ -6,7 +6,7 @@
 
 ## How to approach problems
 
-- Solve the problem on paper.
+- Solve the problem on paper first.
 - Confirm the input and its possiblities.
 - Try to find out patterns in solution.
 - Try to use notepad when writing the actual code
