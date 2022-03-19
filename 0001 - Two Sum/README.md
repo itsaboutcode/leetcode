@@ -36,4 +36,8 @@ Output: [0,1]
 - **Only one valid answer exists.**
  
 
-**Follow-up:** TODO: Can you come up with an algorithm that is less than `O(n2)` time complexity?
+**Follow-up:** Can you come up with an algorithm that is less than `O(n2)` time complexity?
+
+[`O(n2)` Solution:](https://github.com/itsaboutcode/leetcode/blob/main/0001%20-%20Two%20Sum/TwoSum.swift)
+
+[`O(n)` Solution:](https://github.com/itsaboutcode/leetcode/blob/main/0001%20-%20Two%20Sum/TwoSum1.swift)
