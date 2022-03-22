@@ -4,6 +4,12 @@
 
 - https://leetcode.com/itsaboutcode/
 
+## Coding Interview Related resoruces
+
+- https://www.educative.io/courses/grokking-the-coding-interview
+- https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
+- https://practice.geeksforgeeks.org/home/
+
 ## How to approach problems
 
 - Solve the problem on paper first.
