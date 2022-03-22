@@ -1,16 +1,16 @@
 # Leetcode Problems Solution Guide
 
-## My Leetcode profile
+## My Leetcode Profile
 
 - https://leetcode.com/itsaboutcode/
 
-## Coding Interview Related resoruces
+## Coding Interview Related Resoruces
 
 - https://www.educative.io/courses/grokking-the-coding-interview
 - https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
 - https://practice.geeksforgeeks.org/home/
 
-## How to approach problems
+## How to Approach Problems
 
 - Solve the problem on paper first.
 - Confirm the input and its possiblities.
