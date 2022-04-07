@@ -1,14 +1,7 @@
 # Leetcode Problems Solution Guide
 
-## My Leetcode Profile
+#### [My Leetcode Profile](https://leetcode.com/itsaboutcode/)
 
-- https://leetcode.com/itsaboutcode/
-
-## Coding Interview Related Resoruces
-
-- https://www.educative.io/courses/grokking-the-coding-interview
-- https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
-- https://practice.geeksforgeeks.org/home/
 
 ## How to Approach Problems
 
@@ -23,3 +16,12 @@
 **Problems List**
 
 - [0001 - Two Sum](https://github.com/itsaboutcode/leetcode/tree/main/0001%20-%20Two%20Sum)
+
+
+**Reference**
+
+- [Geeks For Geeks](https://practice.geeksforgeeks.org/home/)
+- [Educative](https://www.educative.io/courses/grokking-the-coding-interview)
+- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
+
+
