@@ -21,7 +21,8 @@
 **Reference**
 
 - [Geeks For Geeks](https://practice.geeksforgeeks.org/home/)
-- [Educative](https://www.educative.io/courses/grokking-the-coding-interview)
-- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
+- [Educative | https://www.educative.io/courses/grokking-the-coding-interview](https://www.educative.io/courses/grokking-the-coding-interview)
+- [Educative | Coderust: Hacking the Coding Interview](https://www.educative.io/courses/coderust-hacking-the-coding-interview)
+- [Aditya Verma | Interview Questions Pattern](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
 
 
