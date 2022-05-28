@@ -24,5 +24,7 @@
 - [Educative | https://www.educative.io/courses/grokking-the-coding-interview](https://www.educative.io/courses/grokking-the-coding-interview)
 - [Educative | Coderust: Hacking the Coding Interview](https://www.educative.io/courses/coderust-hacking-the-coding-interview)
 - [Aditya Verma | Interview Questions Pattern](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ)
+- [Leetcode 101: The 14 Patterns Introduction | Workshop (Winter 2022)](https://www.youtube.com/watch?v=g6TLB_tAaCI)
+- [Clean Code Principles | Workshop (Fall 2021)](https://www.youtube.com/watch?v=ViEMlZlwy4o)
 
 
